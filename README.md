@@ -2,7 +2,6 @@
 Test de pagina con tag manager
 
 <html>
-<html>
 <body>
 
 <header>
