@@ -1,7 +1,7 @@
 # testpage
 testeo de pagina
 
-<!DOCTYPE html>
+<html>
 <html>
 <body>
 
