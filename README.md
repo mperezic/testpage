@@ -12,7 +12,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-NR8JPBJ');</script>
   </header>
-  <p>Lorem Ipsum dolor set amet....</p>
+  <p>Tes tag manager</p>
   <!-- End Google Tag Manager -->
 !-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NR8JPBJ"
