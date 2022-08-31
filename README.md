@@ -393,7 +393,4 @@ Test de pagina con tag manager
   }
 </style>
 
-</body>
-</html>
-
 
