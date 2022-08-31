@@ -12,8 +12,7 @@
 
 <script>
 document.querySelector("p").style.backgroundColor = "red";
-
-       <iframe     id='frmWebChat'     class='botFrame'     frameborder='0'     src='https://citroenchatbot.azurewebsites.net'   ></iframe>
+<iframe     id='frmWebChat'     class='botFrame'     frameborder='0'     src='https://citroenchatbot.azurewebsites.net'   ></iframe>
   
 </script>
 
